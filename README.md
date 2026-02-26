@@ -3,7 +3,7 @@ A collection of links to all my projects.
 
 
 ## Godot Projects
-[Procedural generation with adaptive AI tool](https://github.com/BlackMvs/Portfolio-procedural-generation)
+[Procedural generation with adaptive AI tool](https://github.com/BlackMvs/Portfolio-Procedural-Generation)
 
 
 ## Java Games (from scratch)
